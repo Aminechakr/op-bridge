@@ -7,7 +7,7 @@ The `op-Bridge` is a service for op-stack chains which provides a functional UI 
 Clone this repo
 
 ```
-git clone https://github.com/nitantchhajed/op-stack-bridge.git
+git clone https://github.com/aminechakr/op-bridge.git
 
 yarn 
 ```
@@ -26,7 +26,7 @@ yarn start
 
 ## What this service does
 
-The `op-bridge` uses the @eth-optimism/sdk https://sdk.optimism.io/ to provide the bridging functionality by using CrossChainMessenger. It provides the Deposit and withdraw functionality.
+The `op-bridge` uses the `@eth-optimism/sdk` https://sdk.optimism.io/ to provide the bridging functionality by using CrossChainMessenger. It provides the Deposit and withdraw functionality.
 
 ## Tutorial
 
